@@ -2,6 +2,8 @@
 
 The task of this project is to use GANs to colorize grey-scale images, and compare the results of the CycleGAN model, Pix2Pix model and U-Net generator with no discriminator model.
 
+*NOTE* this is a Google Colab Notebook
+
 # Introduction
 
 Image colorization has long been recognized as highly laborious and tedious work. Despite advances in the automation of the process, a considerable amount of manual effort was still required before the emergence of deep neural networks. 
